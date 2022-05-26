@@ -45,4 +45,3 @@ If you use KArSL dataset, we kindly ask you to cite [**_KArSL: Arabic Sign Langu
 
 ## Dataset download 
 
-We used two sets of the KArSL dataset: KArSL-190 and KArSL-502. KArSL-190 is the pilot version of the KArSL dataset, and it consists of 190 signs that comprise 30 digit signs, 39 letter signs, and 121 word signs. We used this set to evaluate the proposed techniques and compared our work with other studies that used this set. We also evaluated our approach on more signs using KArSL-502, which included all the signs (502 signs) of the KArSL dataset. The results reported for KArSL-502 can also be used to benchmark the KArSL dataset because it is the first study to use the whole KArSL dataset.
