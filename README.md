@@ -54,3 +54,23 @@ This dataset consists of 100 dynamic signs of KArSL dataset (from signID 0071 to
 To download the raw video files of this data, please follow the links below:
 - RGB video files
 - Depth data
+
+### KArSL-190
+This dataset consists of 190 static and dynamic signs of KArSL dataset (from signID 0001 to 0190). Please follow the links below to download it:  
+- RGB resized images (256x256x3)
+- Depth images
+- Skeleton
+
+To download the raw video files of this data, please follow the links below:
+- RGB video files
+- Depth data
+
+### KArSL-502
+This dataset consists of 502 static and dynamic signs (whole KArSL dataset signs) (from signID 0001 to 0502). Please follow the links below to download it:  
+- RGB resized images (256x256x3)
+- Depth images
+- Skeleton
+
+To download the raw video files of this data, please follow the links below:
+- RGB video files
+- Depth data
