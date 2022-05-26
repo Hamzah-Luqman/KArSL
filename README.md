@@ -39,8 +39,9 @@ between the left and right hands of the signer.
 ## Samples of the data
 
 All signs are available in three modalities: (a) RGB, (b) depth, and (c) skeleton joint points as shown the followin figure.
+
 <p align="center">
-![image](https://user-images.githubusercontent.com/106232682/170286084-0c8f2e69-6962-45de-b3b7-ef17bcbf7a55.png)
+<img align="center" width="60%" src="https://user-images.githubusercontent.com/106232682/170286084-0c8f2e69-6962-45de-b3b7-ef17bcbf7a55.png">
 </p>
 
 ## Citing
