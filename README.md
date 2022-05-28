@@ -10,7 +10,7 @@ KArSL (**K**FUPM **Ar**abic **S**ign **L**anguage) is an Arabic sign language (A
 <!-- ![image width="500" align="center"](https://user-images.githubusercontent.com/106232682/170251559-6ffe7c7f-6d00-4874-b7ec-4967ee7fa85e.png) -->
 
 <p align="center">
-<img align="center" width="30%" src="https://user-images.githubusercontent.com/106232682/170251559-6ffe7c7f-6d00-4874-b7ec-4967ee7fa85e.png" >
+<img align="center" width="50%" src="https://user-images.githubusercontent.com/106232682/170251559-6ffe7c7f-6d00-4874-b7ec-4967ee7fa85e.png" >
 </p>
 
 KArSL is the first database for ArSL with such a large number of samples. Table 2 shows a comparison between our database and the top five largest databases used in the literature.
