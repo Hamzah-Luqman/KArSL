@@ -76,7 +76,7 @@ To download the raw video files of this data, please follow the links below:
 
 ### KArSL-190
 This dataset consists of 190 static and dynamic signs of KArSL dataset (from signID 0001 to 0190). Please follow the links below to download it:  
-- RGB resized images (256x256x3)
+- [**RGB resized images (256x256x3)**](https://kfupmedusa-my.sharepoint.com/:f:/g/personal/hluqman_kfupm_edu_sa/EhUt9jNQqIZGhNS1qk7gESMBAHBiO3eE7FUqSUJl5sQAdA?e=bckUsk)
 - Depth images
 - Skeleton
 
@@ -86,7 +86,7 @@ To download the raw video files of this data, please follow the links below:
 
 ### KArSL-502
 This dataset consists of 502 static and dynamic signs (whole KArSL dataset signs) (from signID 0001 to 0502). Please follow the links below to download it:  
-- RGB resized images (256x256x3)
+- [**RGB resized images (256x256x3)**](https://kfupmedusa-my.sharepoint.com/:f:/g/personal/hluqman_kfupm_edu_sa/ErCGQGx0XnVOhQTb1GOlkzoBpahQQPXR4w8uqyiPXVFstw?e=qOu12r)
 - Depth images
 - Skeleton
 
