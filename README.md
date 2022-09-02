@@ -65,13 +65,13 @@ If you use KArSL dataset, we kindly ask you to cite [**_KArSL: Arabic Sign Langu
 There are three subsets of the dataset:
 ### KArSL-100
 This dataset consists of 100 dynamic signs of KArSL dataset (from signID 0071 to 0170). Please follow the links below to download it:  
-- RGB resized images (256x256x3)
-- Depth images
-- Skeleton
+- RGB resized images (256x256x3) [[**Signer 01**](), [**Signer 02**](), [**Signer 03**]()]
+- Depth images [Signer 01, Signer 02, Signer 03]
+- Skeleton [Signer 01, Signer 02, Signer 03]
 
 To download the raw video files of this data, please follow the links below:
-- RGB video files
-- Depth data
+- RGB video files [Signer 01, Signer 02, Signer 03]
+- Depth data [Signer 01, Signer 02, Signer 03]
 
 
 ### KArSL-190
