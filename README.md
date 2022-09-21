@@ -66,18 +66,18 @@ There are three subsets of the dataset:
 ### KArSL-100
 This dataset consists of 100 dynamic signs of KArSL dataset (from signID 0071 to 0170). Please follow the links below to download it:  
 - [**RGB resized images (256x256x3)**](https://kfupmedusa-my.sharepoint.com/:f:/g/personal/hluqman_kfupm_edu_sa/Eli1BoG0CARBpF3HAeue5hEBYZWC-LYSR_dD8rkP8VJwyQ?e=nHkR6A)
-- Depth images  
+- [**Depth resized images (256x256x3)**]  
 - Skeleton  
 
 To download the raw video files of this data, please follow the links below:
-- RGB video files [Signer 01, Signer 02, Signer 03]
+- RGB video files [Signer 01, Signer 02, Signer 03](https://kfupmedusa-my.sharepoint.com/:f:/g/personal/hluqman_kfupm_edu_sa/EhWhs1KGi3hKmrauCf9K5hkBmGS4tRKP7HnPshzDFnXAdg?e=ihoDW8)
 - Depth data [Signer 01, Signer 02, Signer 03]
 
 
 ### KArSL-190
 This dataset consists of 190 static and dynamic signs of KArSL dataset (from signID 0001 to 0190). Please follow the links below to download it:  
 - [**RGB resized images (256x256x3)**](https://kfupmedusa-my.sharepoint.com/:f:/g/personal/hluqman_kfupm_edu_sa/EhUt9jNQqIZGhNS1qk7gESMBAHBiO3eE7FUqSUJl5sQAdA?e=bckUsk)
-- Depth images
+- [**Depth resized images (256x256x3)**](https://kfupmedusa-my.sharepoint.com/:f:/g/personal/hluqman_kfupm_edu_sa/EsH7D__E7fVOuHUfdnDm37sBwXv5DlTzNPXMbHeoYeu9sg?e=96KvBP)
 - Skeleton
 
 To download the raw video files of this data, please follow the links below:
@@ -87,7 +87,7 @@ To download the raw video files of this data, please follow the links below:
 ### KArSL-502
 This dataset consists of 502 static and dynamic signs (whole KArSL dataset signs) (from signID 0001 to 0502). Please follow the links below to download it:  
 - [**RGB resized images (256x256x3)**](https://kfupmedusa-my.sharepoint.com/:f:/g/personal/hluqman_kfupm_edu_sa/ErCGQGx0XnVOhQTb1GOlkzoBpahQQPXR4w8uqyiPXVFstw?e=qOu12r)
-- Depth images
+- [**Depth resized images (256x256x3)**](https://kfupmedusa-my.sharepoint.com/:f:/g/personal/hluqman_kfupm_edu_sa/Eh-QuUnpvhdKuMHeJKfgXpcBzhxQNQSVo99xkfnntiZ9Wg?e=VKM0ho)
 - Skeleton
 
 To download the raw video files of this data, please follow the links below:
