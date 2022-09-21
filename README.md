@@ -66,11 +66,11 @@ There are three subsets of the dataset:
 ### KArSL-100
 This dataset consists of 100 dynamic signs of KArSL dataset (from signID 0071 to 0170). Please follow the links below to download it:  
 - [**RGB resized images (256x256x3)**](https://kfupmedusa-my.sharepoint.com/:f:/g/personal/hluqman_kfupm_edu_sa/Eli1BoG0CARBpF3HAeue5hEBYZWC-LYSR_dD8rkP8VJwyQ?e=nHkR6A)
-- [**Depth resized images (256x256x3)**]  
+- [**Depth resized images (256x256x3)**](https://kfupmedusa-my.sharepoint.com/:f:/g/personal/hluqman_kfupm_edu_sa/EhWhs1KGi3hKmrauCf9K5hkBmGS4tRKP7HnPshzDFnXAdg?e=ihoDW8)  
 - Skeleton  
 
 To download the raw video files of this data, please follow the links below:
-- RGB video files [Signer 01, Signer 02, Signer 03](https://kfupmedusa-my.sharepoint.com/:f:/g/personal/hluqman_kfupm_edu_sa/EhWhs1KGi3hKmrauCf9K5hkBmGS4tRKP7HnPshzDFnXAdg?e=ihoDW8)
+- RGB video files [Signer 01, Signer 02, Signer 03]
 - Depth data [Signer 01, Signer 02, Signer 03]
 
 
