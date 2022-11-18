@@ -59,14 +59,29 @@ If you use KArSL dataset, we kindly ask you to cite [**_KArSL: Arabic Sign Langu
   publisher={ACM New York, NY, USA} 
 }
 ```
+Another useful paper that contains results on 502 signs of KArSL dataset:
+[**_An Efficient Two-Stream Network for Isolated Sign Language Recognition Using Accumulative Video Motion_**](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9875269) paper:
+
+```
+@article{luqman2022efficient, 
+  title={ An Efficient Two-Stream Network for Isolated Sign Language Recognition Using Accumulative Video Motion }, 
+  author={ Luqman, Hamzah },
+  journal={IEEE Access},
+  volume={10},
+  pages={93785--93798},
+  year={2022},
+  publisher={IEEE}
+}
+```
+
 
 
 ## Dataset download 
 There are three subsets of the dataset:
 ### KArSL-100
 This dataset consists of 100 dynamic signs of KArSL dataset (from signID 0071 to 0170). Please follow the links below to download it:  
-- [**RGB resized images (256x256x3)**](https://kfupmedusa-my.sharepoint.com/:f:/g/personal/hluqman_kfupm_edu_sa/Eli1BoG0CARBpF3HAeue5hEBYZWC-LYSR_dD8rkP8VJwyQ?e=nHkR6A)
-- [**Depth resized images (256x256x3)**](https://kfupmedusa-my.sharepoint.com/:f:/g/personal/hluqman_kfupm_edu_sa/EhWhs1KGi3hKmrauCf9K5hkBmGS4tRKP7HnPshzDFnXAdg?e=ihoDW8)  
+- [**RGB frames (256x256x3)**](https://kfupmedusa-my.sharepoint.com/:f:/g/personal/hluqman_kfupm_edu_sa/Eli1BoG0CARBpF3HAeue5hEBYZWC-LYSR_dD8rkP8VJwyQ?e=nHkR6A)
+- [**Depth frames (256x256x3)**](https://kfupmedusa-my.sharepoint.com/:f:/g/personal/hluqman_kfupm_edu_sa/EhWhs1KGi3hKmrauCf9K5hkBmGS4tRKP7HnPshzDFnXAdg?e=ihoDW8)  
 - Skeleton  
 
 To download the raw video files of this data, please follow the links below:
@@ -76,8 +91,8 @@ To download the raw video files of this data, please follow the links below:
 
 ### KArSL-190
 This dataset consists of 190 static and dynamic signs of KArSL dataset (from signID 0001 to 0190). Please follow the links below to download it:  
-- [**RGB resized images (256x256x3)**](https://kfupmedusa-my.sharepoint.com/:f:/g/personal/hluqman_kfupm_edu_sa/EhUt9jNQqIZGhNS1qk7gESMBAHBiO3eE7FUqSUJl5sQAdA?e=bckUsk)
-- [**Depth resized images (256x256x3)**](https://kfupmedusa-my.sharepoint.com/:f:/g/personal/hluqman_kfupm_edu_sa/EsH7D__E7fVOuHUfdnDm37sBwXv5DlTzNPXMbHeoYeu9sg?e=96KvBP)
+- [**RGB frames (256x256x3)**](https://kfupmedusa-my.sharepoint.com/:f:/g/personal/hluqman_kfupm_edu_sa/EhUt9jNQqIZGhNS1qk7gESMBAHBiO3eE7FUqSUJl5sQAdA?e=bckUsk)
+- [**Depth frames (256x256x3)**](https://kfupmedusa-my.sharepoint.com/:f:/g/personal/hluqman_kfupm_edu_sa/EsH7D__E7fVOuHUfdnDm37sBwXv5DlTzNPXMbHeoYeu9sg?e=96KvBP)
 - Skeleton
 
 To download the raw video files of this data, please follow the links below:
@@ -86,8 +101,8 @@ To download the raw video files of this data, please follow the links below:
 
 ### KArSL-502
 This dataset consists of 502 static and dynamic signs (whole KArSL dataset signs) (from signID 0001 to 0502). Please follow the links below to download it:  
-- [**RGB resized images (256x256x3)**](https://kfupmedusa-my.sharepoint.com/:f:/g/personal/hluqman_kfupm_edu_sa/ErCGQGx0XnVOhQTb1GOlkzoBpahQQPXR4w8uqyiPXVFstw?e=qOu12r)
-- [**Depth resized images (256x256x3)**](https://kfupmedusa-my.sharepoint.com/:f:/g/personal/hluqman_kfupm_edu_sa/Eh-QuUnpvhdKuMHeJKfgXpcBzhxQNQSVo99xkfnntiZ9Wg?e=VKM0ho)
+- [**RGB frames (256x256x3)**](https://kfupmedusa-my.sharepoint.com/:f:/g/personal/hluqman_kfupm_edu_sa/ErCGQGx0XnVOhQTb1GOlkzoBpahQQPXR4w8uqyiPXVFstw?e=qOu12r)
+- [**Depth frames (256x256x3)**](https://kfupmedusa-my.sharepoint.com/:f:/g/personal/hluqman_kfupm_edu_sa/Eh-QuUnpvhdKuMHeJKfgXpcBzhxQNQSVo99xkfnntiZ9Wg?e=VKM0ho)
 - Skeleton
 
 To download the raw video files of this data, please follow the links below:
